@@ -41,12 +41,15 @@ I'm a CS + AI student who enjoys digging into data, building intelligent systems
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rupendra247&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
-/> -->
+
 ### Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupendra247&layout=compact&theme=dark&hide_border=true" />
 </p>
+
+/> -->
+
 
 ### Connect with Me
 
