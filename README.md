@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=Rupendra247&color=blue&style=for-the-badge" />
 <h1 align="center">Hi, I'm Rupendra 👋</h1>
 <p align="center">
   <i>Python · Machine Learning · Deep Learning · AI</i>
