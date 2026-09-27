@@ -47,6 +47,7 @@ I'm a CS + AI student who enjoys digging into data, building intelligent systems
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rupendra0777&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
+<img src="https://github-readme-stats-multiuser.vercel.app/api/top-langs/?username=Rupendra0777&layout=compact&theme=dark&hide_border=true" />
 
 
 
